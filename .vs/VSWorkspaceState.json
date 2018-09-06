@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\App7",
+    "\\App7\\Resources",
+    "\\App7\\Resources\\drawable",
+    "\\App7\\Resources\\layout"
   ],
+  "SelectedNode": "\\App7\\Resources\\drawable\\pic.png",
   "PreviewInSolutionExplorer": false
 }

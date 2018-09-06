@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:minWidth="25px"
+	android:minHeight="25px"
+	>
+	<ImageView
+		android:src="@drawable/pic"
+		android:layout_width="match_parent"
+		android:layout_height="333.5dp"
+		android:id="@+id/imageView2" />
+	<ImageView
+		android:src="@android:drawable/pic"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/imageView1"
+		android:layout_marginTop="0.0dp" />
+</LinearLayout>
+C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\Resources\drawable\1P4-Android-bot.png

@@ -360,11 +360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\opilane\\source\\repos\\App7\\App7\\App7.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Documents\\GitHub\\2018-2019-Mobile-Apps\\App7\\App7.csproj",
       "projectName": "App7",
-      "projectPath": "c:\\users\\opilane\\source\\repos\\App7\\App7\\App7.csproj",
+      "projectPath": "C:\\Users\\opilane\\Documents\\GitHub\\2018-2019-Mobile-Apps\\App7\\App7.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\opilane\\source\\repos\\App7\\App7\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\Documents\\GitHub\\2018-2019-Mobile-Apps\\App7\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
