@@ -15,7 +15,7 @@
 		android:layout_height="wrap_content"
 		android:id="@+id/linearLayout1">
 		<TextView
-			android:text="Large Text"
+			android:text="Valikud"
 			android:textAppearance="?android:attr/textAppearanceLarge"
 			android:layout_width="378.5dp"
 			android:layout_height="wrap_content"
@@ -35,7 +35,14 @@
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:clickable="true"
-			android:id="@+id/button3" 
-		    android:layout_gravity="start"/>
+			android:id="@+id/button3"
+			android:layout_gravity="start"/>
+		<Button
+			android:text="Neljandale vaatele"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:clickable="true"
+			android:id="@+id/button4"
+			android:layout_gravity="start"/>
 	</LinearLayout>
 </RelativeLayout>

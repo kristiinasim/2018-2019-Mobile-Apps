@@ -19,6 +19,7 @@ namespace App7
             var textView = FindViewById<TextView>(Resource.Id.textView1);
             var button = FindViewById<TextView>(Resource.Id.button2);
             var uusbutton = FindViewById<TextView>(Resource.Id.button3);
+            var neljasbutton = FindViewById<TextView>(Resource.Id.button4);
 
             //button.Click += delegate
             //{
@@ -29,8 +30,9 @@ namespace App7
 
             button.Click += button2_Click;
             button.Click += button3_Click;
+            neljasbutton.Click += button4_Click;
         }
-        private void button2_Click (object sender, System.EventArgs e)
+        private void button2_Click(object sender, System.EventArgs e)
         {
             var SecondActivity = new Intent(this, typeof(Activity1));
             StartActivity(SecondActivity);
@@ -40,8 +42,15 @@ namespace App7
             var ThirdActivity = new Intent(this, typeof(thirdActiv));
             StartActivity(ThirdActivity);
         }
+        private void button4_Click(object sender, System.EventArgs e)
+        {
+        var fourthActivity = new Intent(this, typeof(fourthactivity));
+        fourthActivity.PutExtra("MyData", "Minu Andmed ");
+        StartActivity(fourthActivity);
+        }
+
 
 
     }
-    }
+}
 

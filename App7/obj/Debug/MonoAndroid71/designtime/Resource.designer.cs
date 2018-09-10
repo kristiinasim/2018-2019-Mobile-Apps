@@ -2273,6 +2273,9 @@ namespace App7
 			// aapt resource value: 0x7F020005
 			public const int button3 = 2130837509;
 			
+			// aapt resource value: 0x7F020006
+			public const int button4 = 2130837510;
+			
 			// aapt resource value: 0x7F0C004B
 			public const int buttonPanel = 2131492939;
 			
@@ -2396,8 +2399,8 @@ namespace App7
 			// aapt resource value: 0x7F0C0046
 			public const int image = 2131492934;
 			
-			// aapt resource value: 0x7F020006
-			public const int imageView2 = 2130837510;
+			// aapt resource value: 0x7F020007
+			public const int imageView2 = 2130837511;
 			
 			// aapt resource value: 0x7F0C008E
 			public const int info = 2131493006;
@@ -2843,7 +2846,10 @@ namespace App7
 			public const int design_text_input_password_icon = 2130903080;
 			
 			// aapt resource value: 0x7F030003
-			public const int layout1 = 2130903043;
+			public const int fourthlayout = 2130903043;
+			
+			// aapt resource value: 0x7F030004
+			public const int layout1 = 2130903044;
 			
 			// aapt resource value: 0x7F030029
 			public const int notification_action = 2130903081;
@@ -2902,8 +2908,8 @@ namespace App7
 			// aapt resource value: 0x7F03003B
 			public const int support_simple_spinner_dropdown_item = 2130903099;
 			
-			// aapt resource value: 0x7F030004
-			public const int thirdlayout = 2130903044;
+			// aapt resource value: 0x7F030005
+			public const int thirdlayout = 2130903045;
 			
 			static Layout()
 			{

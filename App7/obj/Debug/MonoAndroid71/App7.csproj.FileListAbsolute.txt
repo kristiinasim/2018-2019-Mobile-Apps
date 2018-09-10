@@ -68,4 +68,5 @@ C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\obj\Debug\MonoAndro
 C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\obj\Debug\MonoAndroid71\res\layout\layout1.xml
 C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\obj\Debug\MonoAndroid71\res\layout\thirdlayout.xml
 C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\obj\Debug\MonoAndroid71\res\drawable\pic.png
+C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\obj\Debug\MonoAndroid71\res\layout\fourthlayout.xml
 C:\Users\opilane\Documents\GitHub\2018-2019-Mobile-Apps\App7\obj\Debug\MonoAndroid71\linksrc\App7.pdb
